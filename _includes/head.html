@@ -1,0 +1,19 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="Experienced product manager &amp; full-stack software developer">
+    <meta name="keywords" content="developer, product manager, technology, software, innovation">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://souad.co/images/avatar.jpg" />
+    <meta name="twitter:image" content="http://souad.co/images/avatar.jpg">
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="345" />
+    <meta property="og:image:height" content="345" />
+    <link rel="icon" type="" href="/favicon.ico">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="{{ "/css/main.css" | prepend: site.baseurl }}" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="{{ "/js/ld2.html" | prepend: site.baseurl }}" rel="alternate" type="application/ld+json" />
+</head>

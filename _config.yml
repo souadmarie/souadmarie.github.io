@@ -1,0 +1,13 @@
+# Site settings
+title: "Souad Marie Eudes Assaad"
+email: souad@eudes.co
+description: "Experienced product manager &amp; full-stack software developer"
+baseurl: ""
+url: "http://souad.co"
+github_username:  souadmarie
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+sass:
+  style: :compressed

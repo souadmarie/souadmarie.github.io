@@ -1,0 +1,4 @@
+---
+---
+$ '.tooltipped'
+.tooltip

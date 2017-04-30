@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div id="home">
+    <div id="curtain" class="valign-wrapper z-depth-1">
+        <h1 class="valign center-align">SOUAD-MARIE EUDES ASSAAD</h1>\
+        {% include social.html %}
+    </div>
+    <div class="container">
+        <section class="card" id="about">
+            <!--<h2><i class="fa fa-info-circle fa-fw"></i> About me</h2>-->
+            <p>
+                Experienced technical product manager and full-stack software developer, I am very curious about the 
+                “how” of technology leading to compelling stories about the “why”.  Forward thinker &amp; user experience 
+                advocate, I will be a real asset to your team.
+                I am also very passionate about nature, I love to read national geography and travel. </br>
+                Have you ever seen a flamingo dance?<a href="https://www.youtube.com/watch?v=KW8GX2n4qbY" target="_blank">  <i class="fa fa-eye" aria-hidden="true"></i></a></br>
+                <strong>Achievements:</strong> </br>
+                <i class="fa fa-laptop" aria-hidden="true"></i> Technical owner of Seechic.com </br>
+                <i class="fa fa-laptop" aria-hidden="true"></i> First &amp; Lead Technical Product Manager at Luxola (acquired by Sephora Digital SEA)</br>
+                <i class="fa fa-hand-rock-o" aria-hidden="true"></i> Amater sparing boxer</br>
+                <i class="fa fa-trophy" aria-hidden="true"></i> Laureate at the First PowerPoint Battle  by Microsoft Paris</br>
+            </p>
+        </section>
+        <section class="card">
+            <h2><i class="fa fa-bookmark fa-fw"></i> Last articles</h2>
+            <ul class="posts row">
+                {% for post in site.posts %}
+                <li class="col m4">
+                    <a class="post-link card" href="{{ post.url | prepend: site.baseurl }}">
+                      <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+                      <div class="title">{{ post.title }}</div>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+        <section class="card">
+            <!--<h2><i class="fa fa-wrench" aria-hidden="true"></i> Skills </h2>-->
+            <p><strong>Technical Skills</strong></p>
+            <p>Python on Django, HTML/SASS/jQuery/Bootstrap , Angular,  Amazon Web Service, PostgreSQL, Git </p>
+            <p><strong>Product Skills</strong></p>
+            <p>Analytics, Agile, Managing a roadmap, Team &amp; Project Management</p>
+        </section>
+    </div>
+</div>
