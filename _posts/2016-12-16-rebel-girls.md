@@ -5,7 +5,7 @@ date:   2016-12-17 18:36:17 +0800
 categories: general
 ---
 <center>
-<iframe src="//giphy.com/embed/SO4trEzzGYDhC" width="480" height="201.29032258064515" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/young-fangirling-fangirlunnamed-SO4trEzzGYDhC">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/SO4trEzzGYDhC" width="480" height="201.29032258064515" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/young-fangirling-fangirlunnamed-SO4trEzzGYDhC"></a></p>
 </center>
 
 I heard about a super cool project that I wanted to share about: <a href="https://www.rebelgirls.co/" target="_blank">rebel girls</a>.
