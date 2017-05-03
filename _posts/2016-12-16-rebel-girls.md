@@ -2,7 +2,7 @@
 layout: post
 title:  "Rebel Girls"
 date:   2016-12-17 18:36:17 +0800
-categories: general
+categories: book
 ---
 <center>
 <iframe src="//giphy.com/embed/SO4trEzzGYDhC" width="480" height="201.29032258064515" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/young-fangirling-fangirlunnamed-SO4trEzzGYDhC"></a></p>
