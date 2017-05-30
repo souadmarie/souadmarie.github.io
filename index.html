@@ -25,24 +25,39 @@ layout: default
             </p>
         </section>
         <section class="card">
-            <h2><i class="fa fa-bookmark fa-fw"></i> Last articles</h2>
+            <h2><i class="fa fa-bookmark fa-fw"></i> Portfolio </h2>
             <ul class="posts row">
                 {% for post in site.posts %}
                 <li class="col m4">
                     <a class="post-link card" href="{{ post.url | prepend: site.baseurl }}">
-                      <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
                       <div class="title">{{ post.title }}</div>
+                      <div class="post-date">{{ post.categories }}</div>
                     </a>
                 </li>
                 {% endfor %}
             </ul>
         </section>
         <section class="card">
-            <!--<h2><i class="fa fa-wrench" aria-hidden="true"></i> Skills </h2>-->
+            <h2><i class="fa fa-wrench"></i> Skills </h2>
             <p><strong>Technical Skills</strong></p>
             <p>Python on Django, HTML/SASS/jQuery/Bootstrap , Angular,  Amazon Web Service, PostgreSQL, Git </p>
             <p><strong>Product Skills</strong></p>
-            <p>Analytics, Agile, Managing a roadmap, Team &amp; Project Management</p>
+            <p>Analytics, Agile, Managing a roadmap, Wireframing, SCRUM Management, Team &amp; Project Management</p>
+        </section>
+        <section class="card">
+            <h2><i class="fa fa-heart"></i> Passions </h2>
+            <p><strong>Boxing</strong></p>
+            <p>Started with english boxing, now I am practicing Muay Thai. What I love about this sport is not the violence, but the techniques, the cardio and the sparing strategies. It gave me strength and confidence.</p>
+            <p><strong>Animals</strong></p>
+            <p>Have you ever watch Planet Earth 2? One of the best documentary I've ever seen. I can spend hours watching/reading about animals, the nature is amazing! </p>
+            <p><strong>Food</strong></p>
+            <p>From street food to a very fancy restaurant, I am ready to try anything. I always say that I discover a culture through the food, for me it's one of the best way to express emotions.</p>
+            <center>
+            <img src="https://lh3.googleusercontent.com/ZxuamARkssxRNNY9XDBNAb8sE-LqLDEPHF4nvAt3vnmJ1XplAmgbu9bJkw-0LOMv6i4p-8HvqqL1D8fSGr7KiYvtt5a23XBxsJJtZ39MDpJSGtqydACfgsp16Hcn0BTR79RFf4-D0ZPwI60WEA0G6fQL6i_VEbi2NPJ7FTPVEO3ippAIXjnZUEjS_LwP_S2lmU60Gk5rO_ClElHVTBRFFBd4iEFIqqKVUISKuOTK9B-sp9YdCF55ZJxU4SF0cDXbMya3hPf0UR7JD9Bu8JT8FDmLHblg1i4Gh85gGvahThTNWOAyM_Pm0ngJE538ZVRQNHi0J59YXUZDS9bIjqWpf-ZUkXyUUEGkrimo_Y7Fe7gVg2DtkJ3oPvXiPkiGlvQCGGDALEpynQBkn_StJ3xdvfH3J94ZmoGNr2aNOrSt2leGlLiOLi7FwWcHpA2LuF3PRKz_BqlQw6TgBiWbYXzCC4n3x0JHnZmCQpnbLZOuAopAjw6Bp-0J8__C-5K29HxrrxYFrj9LQD97OrQ8_ej7lEqRgICYld3PAhcZktXRlugo5FP6FPduNLtc67IF63XWPnDKUiy0O9r8gqATOGGJoWlnaMgqNmdbE_HbIezvmOs12J5NTC2e=w1110-h860-no" width="50%" alt="Hello!">
+            </center>
+            <center>
+                <i><small>Please note this turtle is free, she leaves in the sea. In New Caledonia, some families on the islands have developed special relationships with the turtles around. This is not a center where thousands of human come bother animals.</small></i>
+            </center>
         </section>
     </div>
 </div>
