@@ -9,6 +9,8 @@ categories: Luxola
             <img src="https://lh3.googleusercontent.com/slASr2ohyivb93e4AIGrMoibBDzbsv5y0PjMVHvFe4NOJ6ajxtge9thlMEdzVcpqvE90oc9sfvaexbBLjOGrzfaBR-wsWVS4XNkPGjUdjDoakQpDB_aA2uHwOYQ-FpX1fkmS9jVUR6WThsj6H5RwkfI8z-TL0t_lqK54r3ac3ZBIA2rPS-_Gs8dRQ89Z8rc_ve7imVaGLstBwltwYG3CedauM3gDmaih_x_fEyMKzPOp1o-jIti02U02QvO2dZ1kBwnMW-jUWKyfgoBkK6fruoiVweRYWUiR-aiQQCmpFBozGQuv4mAUs8pranZQ9afcQD7HFoS9SDwkbY0PhtcYEwjzDz2Zykd6QDTnN-b6xIJMsaGVhJbTlSUt12gpQUXCrpIESVwg91rx7i3u_Mp_OwQMyROpoaz2OIp0EMTP4jjbUaMKO4LsrNYT8vKL4bUkbBVukyiY3J8jYZyL8l36bdv1bU8-UXI5-Xl6xfAZqRvW3UBaHZNjSKZMIH8zxYjWLAhnsXv23ez0VT4lAt1RJDIJvOdLAnCz_v-t4WROxR4q1uoTScb98fMSsA5Kf8PGR05J97I4LcBUJNUItPUbsnqga5M-1iVP-lA_EZ3bjbMQc8q2mEOo=w764-h130-no" width="50%" alt="sephora">
 </center>
 
+<i>Luxola was a beauty e-commerce platform that has been acquired by Sephora - as Sephora Digital in July 2015.</i>
+
 <h2>Problem</h2>
 
 <p> Our mobile conversion rate were falling below market standard despite a growth of ~30% in our mobile traffic. In fact, we did not think with a consumer mindset and we were not considering mobile technology and functionalities, hence we were not mobile-friendly. </p>
