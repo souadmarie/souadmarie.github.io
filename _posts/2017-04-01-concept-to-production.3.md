@@ -6,7 +6,7 @@ categories: The New Luncher
 ---
 
 <center>
-            <img src="https://lh3.googleusercontent.com/u9wrcBevdWuZKKegUVlgmsZcYPTT7bn74L1S7OlFbCC3ajz1W_cgwAYTg0ubxHL2BbFSp4lS6X3UcSM3f0AlF_PiauodWSBPUlNpQJBHaBbz7MbtMTJ0WeBhSmVUyVQNCxkMwRbdFtyGKaVUmLZhze122lgkfyfZsPnlrruiYCulwk1porvsOWg740iv4_qOkRC0E_y8l6g3peRemQXqnXfZHKd7MYw8nbT7eenI4xduFG4nkZTPHu1b_ZjQ9pRk7QX7eEBq5SYJEVbUN9-7jpSSga3nfD_CCqe6o6jfOoSP-_3yCtRLn_HsVmLxCxvO3bQb7QOBnQ_tVxiHY-72uJgGBkD55E9R38N7knU-lrbIU-a2mxpedeYzAzGnXE8BKkrlkw3CCNfTfOwzr_-HOVeaGrZp7-xNZvVstsnG55kle1jtPeGoE_lyUb7kgTIkI5pb1shvM6egPh25M7KQo8daZZO5srLp5xBSv5y2Vhay9_6m7ATy_rQMYeAZqA70OYngFpyHnzS1x26SrViFDfSzC9CKH9mfur_r8QYgOb3_3CyOdNo-k3pPN8SVidA_mvQOzXC3awVq2bTaUtWIqqXuYfYSdci3GsDV5DPxpr_QltNPSTYh=s697-no" width="20%" alt="sephora">
+            <img src="https://lh3.googleusercontent.com/u9wrcBevdWuZKKegUVlgmsZcYPTT7bn74L1S7OlFbCC3ajz1W_cgwAYTg0ubxHL2BbFSp4lS6X3UcSM3f0AlF_PiauodWSBPUlNpQJBHaBbz7MbtMTJ0WeBhSmVUyVQNCxkMwRbdFtyGKaVUmLZhze122lgkfyfZsPnlrruiYCulwk1porvsOWg740iv4_qOkRC0E_y8l6g3peRemQXqnXfZHKd7MYw8nbT7eenI4xduFG4nkZTPHu1b_ZjQ9pRk7QX7eEBq5SYJEVbUN9-7jpSSga3nfD_CCqe6o6jfOoSP-_3yCtRLn_HsVmLxCxvO3bQb7QOBnQ_tVxiHY-72uJgGBkD55E9R38N7knU-lrbIU-a2mxpedeYzAzGnXE8BKkrlkw3CCNfTfOwzr_-HOVeaGrZp7-xNZvVstsnG55kle1jtPeGoE_lyUb7kgTIkI5pb1shvM6egPh25M7KQo8daZZO5srLp5xBSv5y2Vhay9_6m7ATy_rQMYeAZqA70OYngFpyHnzS1x26SrViFDfSzC9CKH9mfur_r8QYgOb3_3CyOdNo-k3pPN8SVidA_mvQOzXC3awVq2bTaUtWIqqXuYfYSdci3GsDV5DPxpr_QltNPSTYh=s697-no" width="20%" alt="The New Luncher">
 </center>
 
 <i>The New Luncher is the first online lunchbox delivery service for children in Singapore. Easy online subscription for parents, the team prepares healthy and tasty lunches for kids and deliver them to the schools everyday.</i>
@@ -38,18 +38,14 @@ categories: The New Luncher
 
 <p>We have started the whole project by wireframing on paper the whole website. Why paper? Because I love to start on a white page and I found it easier to change &amp; exchange on with different actors. How I wireframes? For each page, I define the key informations and then I place them on my page depending on the importance. </p>
 
-<p>At this stage, when the user flow was understood and agreed with everyone. I’ve started to work on the “how” - meaning which technology to have the best result? I’ve decided to go with Python (django framework) and AngularJS.  I will write another post about the technology. </p>
+<p>At this stage, when the user flow was understood and agreed with everyone. I’ve started to work on the “how” - meaning which technology to have the best result? I’ve decided to go with Python (django framework) and AngularJS.</p>
 
 <p>After few weeks, we had our first real prototype ready and we’ve organised another focus group with external actors this time. In fact, starting something new, you have no data … you can “only” use the people and intuition knowing that you might wrong. </p>
 
 
 <h2>Result</h2>
 
-<p> We are live and generating our first sales! </p>
-
-<a href="https://thenewluncher.com/sg-en/">THE NEW LUNCHER</a>
-
 <center>
-            <img src="https://lh3.googleusercontent.com/slSIgxh_1oXq8NosdCe98EVY-XBWfu_Sv92KgSLHjOJTnm0nDAaDoseHOO24UYlBajcAh1B0jYSuM4VNOyZvYs9iHXlqQX_5hyaBqgZJU6Uc5WdXshj_C3KC9fSpgz8_3I0XwMzlXjdrZdUPd2jT4BnZjBe2-Nf7vgdZF2xkZQykontyafLaKYK08S2xOW-hf0r4zQ0y2hM5fav3OANI6X8bD3IADXoCGRsURXbu416ynIFi832ZHiz4LMFGegZXmmxXuKJKTuGtLxUyANVzgjB2b1xNadb1y0khHFP0BvneBlg7IseMZPztLPf3VwjrKxrnTDGWLQA0IRcYRPaOPb1Zx47msTdXUcWwUiTdhA_bQB2L3ZQjDR27x_LpuEP7yRCqD8hN8Zh3gay3DZkqjayPXgpp0fLA5jWKtmoey4uZQKZsTiGTGj1Ibbe4tv5WyHsniNZfuUKDW20LSicINB4mFLNdeQVZQZTFKaKiOZwuzYPsDv_Xn-swdkSGXni8HcmfLs12kM2Hn9KCvGx08Tjcv03pzIClP7qOg9jqSEsvA7capfibFkJ9UaNcnQFxTPNA37DJaFF20hMb-wx2nRJ5P3BWc5RinkiBQoghWoFyiFxSO0-2=w994-h640-no" width="100%" alt="sephora">
+            <a href="https://thenewluncher.com/sg-en/"><img src="https://lh3.googleusercontent.com/slSIgxh_1oXq8NosdCe98EVY-XBWfu_Sv92KgSLHjOJTnm0nDAaDoseHOO24UYlBajcAh1B0jYSuM4VNOyZvYs9iHXlqQX_5hyaBqgZJU6Uc5WdXshj_C3KC9fSpgz8_3I0XwMzlXjdrZdUPd2jT4BnZjBe2-Nf7vgdZF2xkZQykontyafLaKYK08S2xOW-hf0r4zQ0y2hM5fav3OANI6X8bD3IADXoCGRsURXbu416ynIFi832ZHiz4LMFGegZXmmxXuKJKTuGtLxUyANVzgjB2b1xNadb1y0khHFP0BvneBlg7IseMZPztLPf3VwjrKxrnTDGWLQA0IRcYRPaOPb1Zx47msTdXUcWwUiTdhA_bQB2L3ZQjDR27x_LpuEP7yRCqD8hN8Zh3gay3DZkqjayPXgpp0fLA5jWKtmoey4uZQKZsTiGTGj1Ibbe4tv5WyHsniNZfuUKDW20LSicINB4mFLNdeQVZQZTFKaKiOZwuzYPsDv_Xn-swdkSGXni8HcmfLs12kM2Hn9KCvGx08Tjcv03pzIClP7qOg9jqSEsvA7capfibFkJ9UaNcnQFxTPNA37DJaFF20hMb-wx2nRJ5P3BWc5RinkiBQoghWoFyiFxSO0-2=w994-h640-no" width="100%" alt="sephora"></a>
 </center>
 
