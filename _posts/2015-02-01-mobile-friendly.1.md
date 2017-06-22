@@ -30,7 +30,7 @@ categories: Luxola
     <li>37% - more likely to purchase</li>
     <li>25% - more secure</li>
 </ul>
-<p>Thanks to these researches, we had a better ideas of :</p>
+<p>Thanks to these researches, we had a better idea of :</p>
 <ul>
     <li>Who is our target (we have developed few personas)</li>
     <li>How there were using their mobile</li>
