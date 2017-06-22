@@ -9,7 +9,7 @@ categories: SeeChic
             <img src="https://lh3.googleusercontent.com/C2oQBLPgw7vPWcDWNGM9tvopLIpxmQ-OENhYfUvedaqWEtgj5yL0MblnsAcC45RvFLGqpxsSnU_LAwvM7X25yhqs9xNUXiXs9sSQBqFPspZUiq5dBVyb8y_SbOzReY39A2tuCPcxeKjixWv_3rx_suGm_Qw5nmV0MuanWSi5-o-JHzs387ZNMYjhhppnheu2EBQ9Lb2BNyVyhB-3UjglK8lWYk6TaJw6jdH2b88ZjXYdvn3ZSkJrgA4xgljLK0YZenpduAIZ9Yx6Z4Sffw3LUfdKqOUEx9_Jf_ZS_VBc_wfd7qVpBcZsnl7UL5uScfx6xIM5aoYNTcmdPPwyWyN2gGGBbVNnh5K4w_YDxsYwcvx_R2YtZYKw6__OFKvXibJMUhkm0XymEj2Bqvh6SmMbEbwoDvVZxsqoB0o3r4_HWUgm4Rd5L5aYj0FdhbQELxt29OrChHU_x2MtuZlm04HerQhVuftRIE4hn2gryN8Xz7BdKRveI9DnU3ep-nlE_nuSvoZwtQNOI610nWIiAv-HqFdjACZIZQE4dW9IB-DG40bxPjR4qHKG-vebRUNJvQ_gHDV5HpF4Id311sHAofdQaO5Q3cDqYG-WzH2lEs_H6kkKig2UPwn7Hr5sr2_wDIQ2HQjKv3T_JC3IZlSxg9dbzoHaVDojSw9Sz1MoUDShOw=w400-h150-no" width="40%" alt="SeeChic">
 </center>
 
-<i>SeeChic was a contact-lenses and sunglasses e-commerce platform in Singapore, created in April 2015. </i>
+<i>SeeChic is a contact-lenses and sunglasses e-commerce platform in Singapore, created in April 2015.  </i>
 
 <h2>Problem</h2>
 
@@ -51,9 +51,9 @@ categories: SeeChic
 
 <strong> Wireframing </strong>
 
-<p>This is essential to the creation of a new feature or website: wireframing. It allows us to define the information hierarchy of our design and make it easier for ur to plan the layout according to how we want our user to process the information. </p>
+<p>This is essential to the creation of a new feature or website: wireframing. It allows us to define the information hierarchy of our design and make it easier for us to plan the layout according to how we want our user to process the information.  </p>
 
-<p>Please find below the wireframes of the booking system. To create them, there are many existing tools ! </p>
+<p>Please find below the wireframes of the booking system as an example.</p>
 
 <center>
             <img src="https://lh3.googleusercontent.com/ASm1d-LLGa322Nb5r6bQp-nmDZXPzJMuMpBKNVz1WRCyElZLBYSjp3GTlfDdUwGcpz3P0RahSlBZLaJsc6_PEH6RKRs4ZRdHDw1dh0tsDm7V6z2H9W0MKSVzOFkq8y_ZiexjgUH4HfjhehS_UsNl9KgQe4x8Wq2NutREDj1eN0J2_hoeP019KJRQQXy53yb81sz_X78UAIR5KK8J34ODlSkBhmGHarSWcKJGbBSNidTT3oV5KG85SyUhQoPChxKKUhyo1f1XL_K5Yaq_xzbNI2tnWoMGZ3FQAlYvGUOxSl4UX0gIbsBgZLm-EnhoW8LmGcs0VEA0NdfdwvygyZqGZXLFUfw6hGBHEMv14hjRQ5hsFlxwFf7mDK87dd75Db92VgbUs-m-JE9MHnt6_rtAuWvfjiwltB0bjVu8s_Z6CwPtgheNPOSd7x3dcNFiXtcPQJjSYpl4DzM42GH5uGDGbNY2RIE9gt0hAWySSQHMOrnxwqkAoSf4NA0pNfycTr8grnJ8PTa6pwj8ew2NwGKKL8QjqDEUbPW0a8qQWR9XfJ23iFh-0yys0oXCBgx34NoGPjgM0b2Qsg_zzRHOOCkKSmSufZaVN7vc_CgHFpFJ3vwfGikBeRgLQlYlHktCz5MH-Oli28MjUregZFXtMdZEwhK4i50KMDAe3duHnTNwbA=w1281-h730-no" width="40%" alt="Step 1">
@@ -71,7 +71,7 @@ categories: SeeChic
 
 <strong> Development  </strong>
 
-<p>Once the wireframes were done, we’ve used an application called <a href="https://marvelapp.com/pop/">POP</a> to animate the flow. Why? It was easier for employees exterior of the team to test and give us feedbacks before we started the technical development. We’ve also asked our friends to test it and make sure we did not forget anything. </p>
+<p>Once the wireframes were done, we’ve used an application called <a href="https://marvelapp.com/pop/">POP</a> to animate the flow. Why?  It was easier for the employee (exterior of the team) to test and give us feedbacks before we started the technical development. We’ve also asked our friends to test it and make sure we did not forget anything. </p>
 
 <p>We’ve organised the development of our platform in weekly sprints and we’ve followed the basic rules of SCRUM Management. We were doing daily standups and weekly tests of our codes to make sure of the quality. </p>
 
