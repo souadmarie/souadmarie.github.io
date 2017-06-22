@@ -17,7 +17,7 @@ categories: SeeChic
 
 <p> Our problem was to provide real-time stock update on our website for more than 50,000 variants while using a CMS called Magento. In fact, the technology chosen to start was not the correct solution. Magento is a good solution for simple e-commerce business but it was not appropriate for our needs. </p>
 
-<h2>How?</h2>
+<h2>How to fix it?</h2>
 
 <strong>Analyse</strong>
 
