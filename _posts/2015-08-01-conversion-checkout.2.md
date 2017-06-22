@@ -19,7 +19,7 @@ categories: Luxola
 
 <strong>Consumer analysis</strong>
 
-<p>We’ve have define our conversion funnel and used Google Analytics Conversion Funnel feature to have a better understanding of our customer behavior.  Funnels help us see this process easily, by giving us a visual representation of the conversion data between each step. This allows us to:</p>
+<p>We’ve defined our conversion funnel and used Google Analytics Conversion Funnel feature to have a better understanding of our customer behavior.  Funnels help us see this process easily, by giving us a visual representation of the conversion data between each step. This allows us to:</p>
 
 <ul>
     <li>Determine what steps are causing customer confusion or trouble.</li>
